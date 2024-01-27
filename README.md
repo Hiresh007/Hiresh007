@@ -34,7 +34,7 @@
 
 <p align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/hiresh-shah-1614ec"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiresh%20Shah%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hiresh-shah-1614ec"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiresh%20Shah-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/hiresh_23"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hiresh_23_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:hireshshah5432@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hireshshah5432@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
