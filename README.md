@@ -33,7 +33,6 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/hiresh-shah-1614ec"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiresh%20Shah%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/hiresh_23"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hiresh_23_-blue?style=flat-square&logo=instagram"></a>
@@ -41,5 +40,6 @@
 </p>
 
 ⭐️ From [Hiresh007](https://github.com/Hiresh007)
+<br/>
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
