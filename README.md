@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/Hiresh007/Hiresh007/master/assets/Hiresh%20Shah%20Banner.png">
 
 <h2> Hey there! I'm Hiresh.</h2>
 
@@ -43,3 +43,4 @@
 </p>
 
 ⭐️ From [Hiresh007](https://github.com/Hiresh007)
+[![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
