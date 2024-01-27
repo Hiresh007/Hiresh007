@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Hiresh007/Hiresh007/master/assets/Hiresh%20Shah%20Banner.png">
-
 <h2> Hey there! I'm Hiresh.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -43,4 +41,5 @@
 </p>
 
 ⭐️ From [Hiresh007](https://github.com/Hiresh007)
+<br/>
 [![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
