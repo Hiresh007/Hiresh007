@@ -39,7 +39,7 @@
   
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?user=Hiresh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hiresh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hiresh007&theme=gotham&hide_border=false)<br/>
 
 
