@@ -42,4 +42,4 @@
 ⭐️ From [Hiresh007](https://github.com/Hiresh007)
 <br/>
 <br/>
-[![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
+⭐[![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
