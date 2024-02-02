@@ -27,8 +27,8 @@
 <br/>
 
 <a href="https://github.com/Hiresh007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiresh007&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiresh007&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiresh007/Hiresh007&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiresh007/Hiresh007&theme=buefy&layout=compact" />
 </a>
 
 <br/>
