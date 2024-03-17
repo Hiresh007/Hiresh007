@@ -12,7 +12,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
