@@ -1,47 +1,56 @@
-<h2> Hey there! I'm Hiresh.</h2>
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/Hiresh007/Hiresh007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiresh007&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiresh007&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
+<h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/hiresh-shah-1614ec"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiresh%20Shah-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/hiresh_23"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hiresh_23_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:hireshshah5432@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hireshshah5432@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+  <img src="[https://media.licdn.com/dms/image/D4D16AQEnPL6W647Kig/profile-displaybackgroundimage-shrink_350_1400/0/1672945646450?e=1678320000&v=beta&t=yO-N_jpN9QUrbsS2qtHBhT2Gu0ZrnDr4LvtxR7CdIUY](https://www.linkedin.com/in/garima-pachori/overlay/background-image/)">
+ </p>
 
-⭐️ From [Hiresh007](https://github.com/Hiresh007)
-<br/>
-<br/>
-⭐[![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hiresh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/garima-pachori](https://www.linkedin.com/in/hiresh-shah-1614ec))
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+</div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hiresh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hiresh007&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiresh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hiresh007&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
